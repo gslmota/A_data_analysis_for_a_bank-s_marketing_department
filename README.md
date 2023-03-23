@@ -41,11 +41,11 @@ In this project, a comparison of the simple use of the Elbow Method to identify 
 
 * Elbow Clusters
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cmrd.png)
+![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/elb.png)
 
 * Model Clusters Division
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cmrd.png)
+![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/pca.png)
 
 
 ### **AutoEncoders->Elbow->Kmeans->PCA**: 
@@ -53,9 +53,9 @@ This project using Radom Forest had 80% acuracy.
 
 * Elbow Clusters with autoencoders preprocessing vs Simple Elbow
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cmrd.png)
+![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/pcaAu.png)
 
 * Model Clusters Division
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cmrd.png)
+![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/pca2.png)
 
