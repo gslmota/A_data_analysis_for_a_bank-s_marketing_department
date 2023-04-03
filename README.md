@@ -59,3 +59,7 @@ This project using Radom Forest had 80% acuracy.
 
 ![!imgs](https://github.com/gslmota/A_data_analysis_for_a_bank-s_marketing_department/blob/main/imgs/pca2.png)
 
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
+
